@@ -1,0 +1,8 @@
+# Enable SSH
+Enable SSH on s screenless Raspberry Pi with Raspbian installed on the flash memory card.
+1. Power off the PI and pull out the SD memory card, if you have not done so already.
+2. Insert the card into your Mac/Linux machine and mount it.
+  * On a Mac go to /Volumes/boot
+  * On Linux mount the SD card
+3. touch ssh
+4. unmount the SD card and reinsert in PI
